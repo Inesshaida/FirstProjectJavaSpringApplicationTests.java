@@ -1,2 +1,2 @@
 #javaspringproject
-![Greeting Page](docs/Screenshot.png)
+![Greeting Page](docs/screenshot-1748391107076)
