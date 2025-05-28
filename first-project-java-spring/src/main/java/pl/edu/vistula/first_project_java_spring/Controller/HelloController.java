@@ -10,7 +10,7 @@ public class HelloController {
 
     @GetMapping(value = "/")
     public String hello() {
-        return "Hello vistula in my first spring controller.";
+        return "Hello vistula, welcome  in my first spring controller.";
     }
 
     @GetMapping("/greeting")
